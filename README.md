@@ -1,4 +1,3 @@
 - Estudante de Engenharia de Software na Universidade Federal do Ceará Campus Quixadá - 6 semestre
-- Tecnologias as quais já utilizei: Figma, Git, SceneBuilder, Postgres
-- Linguagens as quais já programei/estudo: Java,JavaScript, C++/C, Python
-- Área que pretendo atuar: Ciência de Dados
+- Tecnologias as quais já utilizei: Figma, Git, SceneBuilder, Postgres, Trello, Workbench, JavaFX, Docker
+- Linguagens as quais já programei/estudo: Java, JavaScript, C++/C, Python
