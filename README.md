@@ -1,9 +1,7 @@
 # Olá, eu sou a Maria José 👋
 
 🎓 Estudante de **Engenharia de Software na UFC** (Quixadá)
-
 💻 Desenvolvedora **Full Stack** com foco em aplicações Web, Mobile e Desktop
-
 🌱 Atualmente aprofundando conhecimentos em **arquitetura de APIs, práticas de DevOps (Docker, CI/CD) e IA aplicada ao desenvolvimento**.
 
 ---
@@ -27,6 +25,6 @@
 
 ### 📫 Conecte-se comigo
 
-- 💼 **LinkedIn:** *(https://www.linkedin.com/in/maria-barros-67baa8263/)*
+- 💼 **LinkedIn:** *https://www.linkedin.com/in/maria-barros-67baa8263/*
 - ✉️ **E-mail:** pinhom913@gmail.com
 - 📍 Quixadá - CE, Brasil
