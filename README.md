@@ -1,7 +1,9 @@
 # Olá, eu sou a Maria José 👋
 
 🎓 Estudante de **Engenharia de Software na UFC** (Quixadá)
+
 💻 Desenvolvedora **Full Stack** com foco em aplicações Web, Mobile e Desktop
+
 🌱 Atualmente aprofundando conhecimentos em **arquitetura de APIs, práticas de DevOps (Docker, CI/CD) e IA aplicada ao desenvolvimento**.
 
 ---
